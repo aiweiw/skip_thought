@@ -4,7 +4,7 @@
 
 ## Requirements
 
-* >= tensorflow 1.3
+* tensorflow 1.3 or newer
 * python 2.7
 * A recent version of NumPy
 
